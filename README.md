@@ -7,10 +7,10 @@ Maze Project - This project recursively goes through a maze given any random sta
     <table>
 	    <tr>
     	    <td>
-        	    <img src= "https://github.com/jshah0428/Maze-project/assets/108204938/16d234f6-1499-436e-945e-e98d34f2eab7" width=50% height=50%>
+        	    <img src= "https://github.com/jshah0428/Maze-project/assets/108204938/16d234f6-1499-436e-945e-e98d34f2eab7" width=90% height=90%>
       	    </td>
             <td>
-            	 <img src = "https://github.com/jshah0428/Maze-project/assets/108204938/2e65a116-b876-41a4-afd4-831fe8cc91c0" width=70% height=70%>
+            	 <img src = "https://github.com/jshah0428/Maze-project/assets/108204938/2e65a116-b876-41a4-afd4-831fe8cc91c0" width=90% height=90%>
             </td>
         </tr>
     </table>
